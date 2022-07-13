@@ -1,0 +1,15 @@
+1) Data Description: https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-geography-and-service
+
+2) Glossary
+      Total discharges: The number of discharges billed by the provider for inpatient hospital services. When you leave a hospital after treatment, you go through a process called hospital discharge.
+      Covered Charges: Charges for covered services that your health plan paid for. There may be a limit on covered charges if you receive services from providers outside your plan's network of providers. Covered Person - Any person covered under the plan. Covered Service - A healthcare provider’s service or medical supplies covered by your health plan. Benefits will be given for these services based on your plan.
+      Total Covered Charge Amount = the sum of all covered charges
+      Average Covered Charges = Total Covered Charge Amount / Total Discharges
+      Payment is the amount a hospital actually receives for providing patient care. This is the actual amount paid to a hospital by consumers, insurers or governments. The sources of payment are:
+            - Medicare and Medicaid
+            - Private insurer if any
+            - The Patient
+      Average Total Payments = Total Payments / Total Discharges
+      Average Medicare Payments = Medicare Payment Amount / Total Discharges
+
+3) Objective: Find the Fraudulant Transactions. 
